@@ -1,0 +1,14 @@
+# Credenciales
+src/config/config.h
+*.env
+
+# Build
+.pio/
+build/
+*.bin
+
+# IDE
+.vscode/
+
+# Logs
+*.log
